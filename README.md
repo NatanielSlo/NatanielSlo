@@ -1,6 +1,6 @@
-# Hi, I'm [Imię] 👋
+# Hi, I'm Nataniel Slowikowski 👋
 
-CS student incoming at **TU Munich** (2026). I build things that actually work —
+CS student at **TU Munich**. I build things that actually work —
 AI agents, data pipelines, and full-stack tools. Based in Warsaw.
 
 ## 🚀 Projects
