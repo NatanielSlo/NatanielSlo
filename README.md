@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm [Imię] 👋
 
-<!--
-**NatanielSlo/NatanielSlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student incoming at **TU Munich** (2026). I build things that actually work —
+AI agents, data pipelines, and full-stack tools. Based in Warsaw.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[OLX Market Analyzer](link)**
+Automated market intelligence pipeline on AWS. Scheduled scraping → SQS → 
+Lambda → S3 → EC2 analysis. Detects price anomalies and models how product 
+condition affects resale value.
+`Python` `AWS Lambda` `S3` `SQS` `EC2`
+
+**[Academic AI Bot](link)**
+Turns lecture recordings into an interactive study assistant. yt-dlp → 
+Whisper → Groq LLM → pgvector RAG. Ask questions about your courses.
+`Python` `FastAPI` `Whisper` `Groq` `PostgreSQL` `pgvector`
+
+## 🛠️ Stack
+`Python` `FastAPI` `AWS` `PostgreSQL` `LLM` `RAG` `Docker`
+
+## 📌 Other
+- 🏆 Sapere Auso Scholarship — City of Warsaw (2024)
+- 🚀 ESA CanSat — Team Lead & Software Dev, 3rd place in Poland (2023/2024)
+- 🤖 NVIDIA — AI on Jetson Nano (2024)
+- 💼 2 years freelance · 1 year CS tutoring
