@@ -5,15 +5,15 @@ AI agents, data pipelines, and full-stack tools. Based in Warsaw.
 
 ## 🚀 Projects
 
-**[OLX Market Analyzer](link)**
+**[OLX Market Analyzer](https://github.com/NatanielSlo/olx-aws-general-scraper)**
 Automated market intelligence pipeline on AWS. Scheduled scraping → SQS → 
 Lambda → S3 → EC2 analysis. Detects price anomalies and models how product 
 condition affects resale value.
 `Python` `AWS Lambda` `S3` `SQS` `EC2`
 
-**[Academic AI Bot](link)**
+**[Academic AI Bot](https://github.com/NatanielSlo/academic-backend)**
 Turns lecture recordings into an interactive study assistant. yt-dlp → 
-Whisper → Groq LLM → pgvector RAG. Ask questions about your courses.
+Whisper → Groq LLM → pgvector RAG. Ask questions about your courses, generate quizzes and much more.
 `Python` `FastAPI` `Whisper` `Groq` `PostgreSQL` `pgvector`
 
 ## 🛠️ Stack
